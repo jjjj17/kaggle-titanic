@@ -13,3 +13,7 @@ Features are:
 - Embarked
 
 Initial train accuracy was 85,2% and test accuracy was 70,6%.
+
+First submit tree:
+
+![titanictreev1](https://github.com/jjjj17/kaggle-titanic/assets/66847216/916ef510-e6c9-4d3e-ac8f-33685635280f)
